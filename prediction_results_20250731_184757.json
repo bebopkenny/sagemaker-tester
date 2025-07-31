@@ -1,0 +1,58 @@
+[
+  {
+    "prediction_type": "graduation_probability",
+    "student_id": "STU0001",
+    "graduation_probability": 84.3,
+    "confidence_score": 77.1,
+    "risk_level": "Low",
+    "risk_factors": [
+      "Low GPA",
+      "Poor attendance",
+      "Incomplete homework"
+    ],
+    "model_version": "v1.0",
+    "prediction_timestamp": "2025-07-31T18:47:55.140862"
+  },
+  {
+    "prediction_type": "graduation_probability",
+    "student_id": "STU0002",
+    "graduation_probability": 93.1,
+    "confidence_score": 82.2,
+    "risk_level": "Low",
+    "risk_factors": [],
+    "model_version": "v1.0",
+    "prediction_timestamp": "2025-07-31T18:47:55.646262"
+  },
+  {
+    "prediction_type": "graduation_probability",
+    "student_id": "STU0003",
+    "graduation_probability": 91.3,
+    "confidence_score": 78.7,
+    "risk_level": "Low",
+    "risk_factors": [
+      "Low test scores"
+    ],
+    "model_version": "v1.0",
+    "prediction_timestamp": "2025-07-31T18:47:56.416226"
+  },
+  {
+    "prediction_type": "graduation_probability",
+    "student_id": "STU0004",
+    "graduation_probability": 95.5,
+    "confidence_score": 83.2,
+    "risk_level": "Low",
+    "risk_factors": [],
+    "model_version": "v1.0",
+    "prediction_timestamp": "2025-07-31T18:47:57.365242"
+  },
+  {
+    "prediction_type": "graduation_probability",
+    "student_id": "STU0005",
+    "graduation_probability": 93.5,
+    "confidence_score": 76.9,
+    "risk_level": "Low",
+    "risk_factors": [],
+    "model_version": "v1.0",
+    "prediction_timestamp": "2025-07-31T18:47:57.891678"
+  }
+]
